@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a command line app that is that is built using node js. You can Add, Remove, List and Read Notes.
+This is a command line Notes taking app that is built using NodeJs. You can Add, Remove, List and Read Notes.
 **Note:** All Notes data will be store on notes.json file
 
 ## Install
