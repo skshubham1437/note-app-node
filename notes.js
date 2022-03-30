@@ -1,14 +1,10 @@
-// console.log("Hello from notes");
-// module.exports.add = (a, b) => {
-//   return a+b;
-// }
+
 const chalk= require('chalk')
 const fs = require('fs')
 
 const getNotes = () => {
   return "Your notes..."
 }
-// const { add } = require("lodash")
 
 // Function to add notes
 const addNote = (title, body) => {
