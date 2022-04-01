@@ -19,10 +19,10 @@ $ npm i
 To add notes, You need to provide add as arguments and title and body with their property, that you wants to add.
 Example:
 ```\
-node app.js add --title="note title --body="body of your notes"
+node app.js add --title="note title" --body="body of your notes"
 ```
 
-### For removeing notes
+### For removing notes
 To remove notes, You need to provide remove as arguments and title with their property, that you wants to remove.
 Example:
 ```
